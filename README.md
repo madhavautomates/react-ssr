@@ -1,4 +1,4 @@
-# [DEPRECATED] React Server Side Renderin
+# [DEPRECATED] React Server Side Rendering
 This is no longer the recommended way to approach server side rendering with React. For an all-round solution look at a starter with `next.js` or `remix`
 
 ## Getting started
